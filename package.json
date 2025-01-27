@@ -1,0 +1,31 @@
+{
+  "name": "multi-package",
+  "version": "1.0.0",
+  "description": "A CLI tool that allows the user to choose between two packages: API setup or Simple Express setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests specified'"
+  },
+  "bin": {
+    "multi-package": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsmanGhani0304/multiple-package.git"
+  },
+  "keywords": [
+    "CLI",
+    "express",
+    "API",
+    "npm"
+  ],
+  "author": "Taha, Usman, Anas, and Shaheer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/UsmanGhani0304/multiple-package/issues"
+  },
+  "homepage": "https://github.com/UsmanGhani0304/multiple-package#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
